@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/yudoraihan/my-portfolio/static/css/main.efca42db.css",
+    "main.js": "/yudoraihan/my-portfolio/static/js/main.ffc00faa.js",
+    "static/media/Avatar.png": "/yudoraihan/my-portfolio/static/media/Avatar.1a0723927302fc673e5b.png",
+    "static/media/Project1.png": "/yudoraihan/my-portfolio/static/media/Project1.46866d96415a091cd84e.png",
+    "static/media/Certificate8.png": "/yudoraihan/my-portfolio/static/media/Certificate8.4e54a020fb8e36276a1c.png",
+    "static/media/devicon.svg?biu5f3": "/yudoraihan/my-portfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/Certificate5.png": "/yudoraihan/my-portfolio/static/media/Certificate5.95c8115cebfc7bd25d59.png",
+    "static/media/Avatar2.png": "/yudoraihan/my-portfolio/static/media/Avatar2.47d688cc51ba6a35e525.png",
+    "static/media/Certificate6.png": "/yudoraihan/my-portfolio/static/media/Certificate6.14a0a4f820a50be3c333.png",
+    "static/media/Certificate1.png": "/yudoraihan/my-portfolio/static/media/Certificate1.f03d96e7d437e75db328.png",
+    "static/media/Certificate2.png": "/yudoraihan/my-portfolio/static/media/Certificate2.59a963d32cdc6d94137f.png",
+    "static/media/Certificate4.png": "/yudoraihan/my-portfolio/static/media/Certificate4.db16d4e665655239898a.png",
+    "static/media/Certificate3.png": "/yudoraihan/my-portfolio/static/media/Certificate3.06a8d20c35beab488900.png",
+    "static/media/Certificate9.png": "/yudoraihan/my-portfolio/static/media/Certificate9.6a987b60efd059364f4b.png",
+    "static/media/Certificate7.png": "/yudoraihan/my-portfolio/static/media/Certificate7.0af31352e9adf3795182.png",
+    "static/media/Project2.png": "/yudoraihan/my-portfolio/static/media/Project2.93ed197ce49f892bb22d.png",
+    "static/media/devicon.eot?biu5f3": "/yudoraihan/my-portfolio/static/media/devicon.afa70020fddd5e5a3260.eot",
+    "static/media/devicon.woff?biu5f3": "/yudoraihan/my-portfolio/static/media/devicon.96fdfd136e8a467e1861.woff",
+    "static/media/devicon.ttf?biu5f3": "/yudoraihan/my-portfolio/static/media/devicon.b25739c2b9d15a53d60c.ttf",
+    "static/media/Hi.gif": "/yudoraihan/my-portfolio/static/media/Hi.d93720933c608f6178fb.gif",
+    "static/media/Billstein M. Lelatobur CV.pdf": "/yudoraihan/my-portfolio/static/media/Billstein M. Lelatobur CV.13ad9b5f0821f6f1f14e.pdf",
+    "static/media/Project3.png": "/yudoraihan/my-portfolio/static/media/Project3.6133ae45a85fd4250277.png",
+    "index.html": "/yudoraihan/my-portfolio/index.html",
+    "main.efca42db.css.map": "/yudoraihan/my-portfolio/static/css/main.efca42db.css.map",
+    "main.ffc00faa.js.map": "/yudoraihan/my-portfolio/static/js/main.ffc00faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efca42db.css",
+    "static/js/main.ffc00faa.js"
+  ]
+}
